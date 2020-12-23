@@ -1,6 +1,6 @@
 ---
 title: Die Prinzipien der Natur
-subtitle: 'Es herrschen '
+subtitle: 'Es herrschen Gesetze '
 date: '2019-05-10'
 thumb_image: images/shutterstock_696746662 sm.jpg
 image: images/1.jpg
