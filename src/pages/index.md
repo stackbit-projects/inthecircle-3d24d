@@ -12,7 +12,7 @@ sections:
       Perspektive zu betrachten und unsere Materie zu tiefst zu verehren. Nichts
       ist selbstverständlich.
     actions:
-      - label: Let's talk
+      - label: Tiefer
         url: /contact
         style: button
   - section_id: latest-projects
