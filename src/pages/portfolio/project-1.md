@@ -1,5 +1,5 @@
 ---
-title: 'Die '
+title: Die Prinzipien der Natur
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/shutterstock_696746662 sm.jpg
