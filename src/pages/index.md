@@ -18,7 +18,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: 'N'
+    title: ''
     subtitle: An optional subtitle of the section
     projects_number: 6
     view_all_label: View All
