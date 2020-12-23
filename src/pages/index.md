@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: ''
     type: section_hero
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
     content: >-
