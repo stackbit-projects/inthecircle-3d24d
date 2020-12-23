@@ -1,6 +1,6 @@
 ---
 title: Home
-hide_title: true
+hide_title: false
 sections:
   - section_id: Hero
     type: section_hero
