@@ -6,8 +6,11 @@ sections:
     type: section_hero
     title: Alles ist Natur.
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Wir leben in einem Wunder namens Natur.
+
+      Du bist eingeladen einzutauchen und unser aller Zuhause aus einer neuen
+      Perspektive zu betrachten und unsere Materie zu tiefst zu verehren. Nichts
+      ist selbstverständlich.
     actions:
       - label: Let's talk
         url: /contact
